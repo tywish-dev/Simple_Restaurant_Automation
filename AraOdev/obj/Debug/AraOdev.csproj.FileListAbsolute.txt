@@ -1,0 +1,14 @@
+C:\Users\samet\source\repos\AraOdev\AraOdev\bin\Debug\AraOdev.exe.config
+C:\Users\samet\source\repos\AraOdev\AraOdev\bin\Debug\AraOdev.exe
+C:\Users\samet\source\repos\AraOdev\AraOdev\bin\Debug\AraOdev.pdb
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.Form1.resources
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.Properties.Resources.resources
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.exe
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.pdb
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.Form2.resources
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.Form3.resources
+C:\Users\samet\source\repos\AraOdev\AraOdev\obj\Debug\AraOdev.Form4.resources
